@@ -1,0 +1,12 @@
+define_macros.v
+dmemory.v
+imemory.v
+pd.v
+pc.v
+register_file.v
+alu.v
+immediate_generator.v
+decoder.v
+branch_comparator.v
+pipeline_control.v
+write_back.v
